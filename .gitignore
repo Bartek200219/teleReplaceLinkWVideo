@@ -1,0 +1,14 @@
+# Environment variables
+.env
+
+# Bot files
+chat_settings/
+downloads/
+logs/
+cookies/
+
+# Python cache files
+__pycache__/
+
+# System files
+**.DS_Store
